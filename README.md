@@ -1,0 +1,4 @@
+# ENME-400-Machine-Design
+
+A lathe is a machine utilized to perform machining operations, in which the workpiece is subject to rotation around its longitudinal axis, and a static tool is applied against the workpiece to remove material. Lathes are used for a wide range of operations, such as sanding, wood turning, drilling and cutting. Due to its versatility, lathe machines are often utilized as an all in one machine by hobbyists and homeowners.
+The purpose of this report is to demonstrate the team’s ability to employ Machine Design concepts to design a real world mechanical system based on a set of user requirements and design constraints. The design will include a motor, shafts, pulleys, belts, bearings and other housing elements. The team will deliver a detailed report outlining the specifications and justifications for these design of these components.
